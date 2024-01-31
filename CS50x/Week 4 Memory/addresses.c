@@ -12,6 +12,7 @@ int main(void)
     // Print the value stored at the address pointed to by 'p'.
     printf("%i\n", *p);
 }
+'''
 
 a
 
