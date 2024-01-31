@@ -1,3 +1,4 @@
+'''c
 #include <stdio.h>
 
 // This program demonstrates the use of pointers in C.
@@ -11,3 +12,7 @@ int main(void)
     // Print the value stored at the address pointed to by 'p'.
     printf("%i\n", *p);
 }
+
+a
+
+'''c
