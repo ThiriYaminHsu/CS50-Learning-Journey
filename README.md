@@ -1,11 +1,9 @@
-# CS50-Learning-Journey
-
 ```markdown
 # CS50 Notes Repository
 
 Welcome to my CS50 Notes repository! This repository contains my personal notes, solutions, and reflections for the CS50 courses I've taken. Feel free to explore the content, and I hope you find it helpful in your learning journey.
 
-## Table of Contents
+# Table of Contents
 
 - [Courses](#courses)
 - [Structure](#structure)
@@ -13,18 +11,18 @@ Welcome to my CS50 Notes repository! This repository contains my personal notes,
 - [Contributing](#contributing)
 - [License](#license)
 
-## Courses
+# Courses
 
 This repository covers notes and materials related to the following CS50 courses:
 
 - CS50x: Introduction to Computer Science
 - [Other CS50 Courses]
 
-## Structure
+# Structure
 
 The repository is organized into folders corresponding to each course, and within each course folder, you'll find further organization based on topics, assignments, and other relevant sections.
 
-## How to Use
+# How to Use
 
 Feel free to navigate through the folders and access the notes and materials for specific weeks, assignments, or topics. You can download or clone the repository to your local machine using the following command:
 
