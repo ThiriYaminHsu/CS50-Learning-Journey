@@ -24,23 +24,6 @@ This repository covers notes and materials related to the following CS50 courses
 
 The repository is organized into folders corresponding to each course, and within each course folder, you'll find further organization based on topics, assignments, and other relevant sections.
 
-```
-CS50-Notes-Repository/
-│
-├── CS50x/
-│   ├── Week1/
-│   ├── Week2/
-│   │   ├── Problem Set 1/
-│   │   └── ...
-│   └── ...
-│
-├── Other-CS50-Course/
-│   ├── Section1/
-│   └── ...
-│
-└── ...
-```
-
 ## How to Use
 
 Feel free to navigate through the folders and access the notes and materials for specific weeks, assignments, or topics. You can download or clone the repository to your local machine using the following command:
@@ -62,6 +45,3 @@ If you'd like to contribute, whether by fixing errors, adding explanations, or p
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share the content in accordance with the terms of the license.
 
 Happy coding!
-```
-
-Make sure to replace "[Other CS50 Courses]" with the actual names of any additional CS50 courses you've taken or plan to include in the repository. Additionally, consider adding specific instructions or prerequisites if your notes involve any code that requires specific tools or software to run. Finally, if there are specific guidelines or licenses you want to use, make sure to update the relevant sections accordingly.
