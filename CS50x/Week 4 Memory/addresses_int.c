@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 
 // This program demonstrates the use of pointers in C.
