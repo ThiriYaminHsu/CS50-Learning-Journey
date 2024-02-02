@@ -1,6 +1,6 @@
 # CS50 Notes Repository
 
-Welcome to my CS50 Notes repository! This repository contains my personal notes, solutions, and reflections for the CS50 courses I've taken. Feel free to explore the content, and I hope you find it helpful in your learning journey.
+This repository contains my personal notes and reflections for the CS50 courses I've taken. Feel free to explore the content, and I hope you find it helpful in your learning journey.
 
 # Table of Contents
 
