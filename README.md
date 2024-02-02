@@ -14,7 +14,7 @@ This repository contains my personal notes and reflections for the CS50 courses 
 
 This repository covers my personal notes related to the following CS50 courses:
 
-- CS50x: Introduction to Computer Science (#https://cs50.harvard.edu/x/2024/)
+- [CS50x: Introduction to Computer Science](#https://cs50.harvard.edu/x/2024/)
 - [Other CS50 Courses]
 
 # Structure
@@ -28,10 +28,6 @@ Feel free to navigate through the folders and access the notes and materials for
 ```bash
 git clone https://github.com/your-username/CS50-Notes-Repository.git
 ```
-
-### Prerequisites
-
-- [List any software or tools required to run the code or view the notes]
 
 ## Contributing
 
