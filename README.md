@@ -29,12 +29,4 @@ Feel free to navigate through the folders and access the notes and materials for
 git clone https://github.com/your-username/CS50-Notes-Repository.git
 ```
 
-## Contributing
-
-If you'd like to contribute, whether by fixing errors, adding explanations, or providing additional resources, please feel free to fork the repository and submit a pull request. Contributions are highly appreciated!
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share the content in accordance with the terms of the license.
-
 Happy coding!
